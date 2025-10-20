@@ -2,6 +2,16 @@
 Website bán đồ uống được phát triển bằng WordPress, nhằm mục tiêu thực hành kỹ năng thiết kế giao diện, tối ưu SEO và tùy chỉnh chức năng website thương mại điện tử.
 Dự án được thực hiện trong quá trình học tập và thực tập ngành Kỹ thuật phần mềm.
 
+📷 Screenshot
+
+##Trang chủ
+
+![Trang chủ](https://github.com/Thuyr381/Web-Selling-Beverage/blob/master/Maketo/wp-content/uploads/2024/05/screencapture-home.png)
+
+##Cửa hàng
+
+![Cửa hàng](https://github.com/Thuyr381/Web-Selling-Beverage/blob/master/Maketo/wp-content/uploads/2024/05/screencapture-shop.png)
+
 🚀 Giới thiệu dự án
 Web Selling Beverage là website mô phỏng một cửa hàng kinh doanh đồ uống (cà phê, trà, nước giải khát).
 Trang web được xây dựng nhằm:
